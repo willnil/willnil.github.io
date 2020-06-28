@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: ROS
+  percentage: 
+  color: dark
+
+- name: AWS EC2/S3
+  percentage: 
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: GCP
+  percentage: 
   color: success
