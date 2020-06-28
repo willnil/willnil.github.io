@@ -1,11 +1,11 @@
 - name: ROS
-  percentage: 
+  percentage: 80
   color: dark
 
 - name: AWS EC2/S3
-  percentage: 
+  percentage: 70
   color: info
 
 - name: GCP
-  percentage: 
+  percentage: 70
   color: success
