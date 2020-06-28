@@ -5,8 +5,8 @@ description         : >-
                       Working student at Siemens <br>
                       Interest: Mobile Robotics, Data Science and AI, Cloud Infra-Architecture
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : willnil/willnil.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-# remote_theme        : YoussefRaafatNasry/portfolYOU
+# repository          : willnil/willnil.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
@@ -86,5 +86,3 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-
-github: [metadata]
