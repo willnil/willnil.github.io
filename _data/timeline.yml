@@ -6,8 +6,8 @@
 - title: Working Student, Siemens, Munich
   from: 2019
   to: present
-  description: Working student at the department of Security Lifecycle
-               - Support development of DevSecOps CI/CD pipelines in cloud environment
-               - Infrastructure as Code using Ansible, Terraform
-               - Configuration of the DevOps pipeline in AWS DevOps, GitLab CI and Jenkins
-               - Vulnerabilities management using JIRA, DefectDojo and Docker
+  description: Working student at the department of Security Lifecycle <br>
+               - Support development of DevSecOps CI/CD pipelines in cloud environment <br>
+               - Infrastructure as Code using Ansible, Terraform <br>
+               - Configuration of the DevOps pipeline in AWS DevOps, GitLab CI and Jenkins <br>
+               - Vulnerabilities management using JIRA, DefectDojo and Docker <br>
